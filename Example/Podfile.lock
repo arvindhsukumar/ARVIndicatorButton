@@ -1,0 +1,14 @@
+PODS:
+  - ARVIndicatorButton (0.1.0)
+
+DEPENDENCIES:
+  - ARVIndicatorButton (from `../`)
+
+EXTERNAL SOURCES:
+  ARVIndicatorButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ARVIndicatorButton: 01ffdcca2a60ff9313d93ce3b95275a9eaf51255
+
+COCOAPODS: 0.36.0
