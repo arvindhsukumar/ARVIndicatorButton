@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'ARVIndicatorButton', :exclusive => true do
+  pod "ARVIndicatorButton", :path => "../"
+
+  
+end
